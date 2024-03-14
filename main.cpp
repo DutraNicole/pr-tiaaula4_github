@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    string nome = "Nicole Dutra";
+    string nome = "Nicole Bortolotti";
     cout << nome << endl;
 
     return 0;
